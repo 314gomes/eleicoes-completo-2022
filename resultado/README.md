@@ -1,0 +1,1 @@
+# Nesta pasta ficarão os resultados quanto tiverem sido computados.
