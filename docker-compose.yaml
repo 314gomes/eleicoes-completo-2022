@@ -2,6 +2,6 @@ services:
   download_dados:
     build: download_dados
     volumes:
-      - dados
+      - dados:/dados
 volumes:
   dados:
