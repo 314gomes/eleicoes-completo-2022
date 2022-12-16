@@ -1,0 +1,7 @@
+services:
+  download_dados:
+    build: download_dados
+    volumes:
+      - dados
+volumes:
+  dados:
